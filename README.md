@@ -10,7 +10,7 @@ Repositório pessoal para registrar minha jornada de aprendizado e desenvolvimen
 
 ## Formação Acadêmica <a name="formacao-academica"></a> :mortar_board:
 
-`Bacharel em Ciência da Computação` - Universidade Federal de Campina Grande - UFCG (Brasil) [website](https://www.computacao.ufcg.edu.br/)._. :paperclip: [aqui](certificates/degree-diploma.png)
+`Bacharel em Ciência da Computação` - Universidade Federal de Campina Grande - UFCG (Brasil) [website](https://www.computacao.ufcg.edu.br/) :paperclip: [aqui]
 
 ## Certificações <a name="certificacoes"></a> :star:
 
