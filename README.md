@@ -1,25 +1,25 @@
-# My Courses and Certifications :white_check_mark:
+# My Courses and Certifications
 
 Personal repository to register my learning and professional development journey.
 
-## Index :pushpin:
+## Index
 - [Academic Education](#academic-education)
 - [Certifications](#certifications)
 - [Languages](#languages)
 - [Courses](#courses)
 
-## Academic Education <a name="academic-education"></a> :mortar_board:
+## Academic Education <a name="academic-education"></a>
 
 `Bachelor's degree in Computer Science` - Universidade Federal de Campina Grande - UFCG (Brazil) [website](https://www.computacao.ufcg.edu.br/) :paperclip: [here]
 
-## Certifications <a name="certifications"></a> :star:
+## Certifications <a name="certifications"></a>
 
-## Languages <a name="languages"></a> :round_pushpin:
+## Languages <a name="languages"></a>
 
-- **Portuguese:** Native :brazil:
+- **Portuguese:** Native
 - **English:** Advanced professional proficiency 
 
-## Courses <a name="courses"></a> :pencil2:
+## Courses <a name="courses"></a>
 
 #### Languages
 
