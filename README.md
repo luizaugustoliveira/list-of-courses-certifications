@@ -24,7 +24,7 @@ Repositório pessoal para registrar minha jornada de aprendizado e desenvolvimen
 
 #### Idiomas
 
-- Certificado de Inglês. _Escola: [Oxford International English]._ _Duração: Xh._ :paperclip: [aqui](certificates/Certificado%20de%20ingl%C3%AAs.pdf)
+- Certificado de Inglês. _Escola: Oxford International English :paperclip: [aqui](certificates/Certificado%20de%20ingl%C3%AAs.pdf)
 
 ---
 
