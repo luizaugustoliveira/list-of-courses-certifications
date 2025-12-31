@@ -16,7 +16,7 @@ Repositório pessoal para registrar minha jornada de aprendizado e desenvolvimen
 
 ## Idiomas <a name="idiomas"></a> :round_pushpin:
 
-- **Português:** Nativo:brazil:
+- **Português:** Nativo :brazil:
 - **Inglês:** Proficiência profissional avançada :gb:
 
 ## Cursos <a name="cursos"></a> :pencil2:
