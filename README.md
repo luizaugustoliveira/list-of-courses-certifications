@@ -20,8 +20,9 @@ Repositório pessoal para registrar minha jornada de aprendizado e desenvolvimen
 - **Inglês:** Proficiência profissional avançada :gb:
 
 ## Cursos <a name="cursos"></a> :pencil2:
-
-Abaixo está a lista de cursos que concluí. Atualmente `0` cursos com um total de `0 horas.`
+   ```markdown
+   - [Certificado de Inglês]. _Escola: [Oxford International English]._ _Duração: Xh._ :paperclip: [aqui](certificates/Certificado%20de%20inglês.pdf)
+   ```
 
 ---
 
